@@ -1,5 +1,5 @@
 import random from '../node_modules/lodash-es/random.js'
-import '../css/lodash.css'
+import './lodash.css'
 
 const randomNumberLodash = random(10, 100)
 
